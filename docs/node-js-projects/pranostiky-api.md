@@ -1,0 +1,1 @@
+# Pranostiky API (SK)
