@@ -44,12 +44,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Projects',
-          },
-          {
             href: 'https://github.com/patrikmasiar',
             label: 'GitHub',
             position: 'right',
