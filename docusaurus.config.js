@@ -41,6 +41,11 @@ const config = {
         },
         items: [
           {
+            href: 'https://patrikmasiar.com',
+            label: 'Website',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/patrikmasiar',
             label: 'GitHub',
             position: 'right',
