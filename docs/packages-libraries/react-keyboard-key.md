@@ -4,6 +4,8 @@
 `#typescript` `#hooks` `#react`
 
 ## Overview
+[![npm](https://img.shields.io/npm/v/react-keyboard-key?style=plastic)](https://www.npmjs.com/package/react-keyboard-key)
+[![NPM](https://img.shields.io/npm/dy/react-keyboard-key?style=plastic)](https://www.npmjs.com/package/react-keyboard-key)
 
 ## Usage
 ### Types
