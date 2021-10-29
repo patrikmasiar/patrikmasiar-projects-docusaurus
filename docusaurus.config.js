@@ -1,9 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Projects - Patrik Mäsiar 🚀 | Sofware developer',
@@ -37,9 +34,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Projects',
+        title: 'Patrik Mäsiar | Projects',
         logo: {
-          alt: 'My Projects Logo',
+          alt: 'Patrik Mäsiar projects Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -54,10 +51,6 @@ const config = {
         style: 'dark',
         links: [],
         copyright: `🚀 Patrik Mäsiar`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
       },
     }),
 };

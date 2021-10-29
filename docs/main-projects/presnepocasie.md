@@ -1,0 +1,2 @@
+# Accurate Weather
+> 🇸🇰 Presné počasie
