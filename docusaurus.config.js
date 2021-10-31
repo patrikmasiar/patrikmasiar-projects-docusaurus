@@ -9,7 +9,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'patrikmasiar',
   projectName: 'patrikmasiar-projects-docusaurus',
 
@@ -37,7 +37,7 @@ const config = {
         title: 'Patrik Mäsiar | Projects',
         logo: {
           alt: 'Patrik Mäsiar projects Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
