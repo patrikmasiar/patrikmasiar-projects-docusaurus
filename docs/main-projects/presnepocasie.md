@@ -1,6 +1,8 @@
 # Accurate Weather
 > 🇸🇰 Presné počasie
 
+![Presné počasie](/img/presnepocasie.png)
+
 ## Technologies
 `#react` `#react-native` `#javascript` `#axios` `#google-places-api`
 
