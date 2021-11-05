@@ -8,7 +8,7 @@
 [![NPM](https://img.shields.io/npm/dy/bitly-field-react?style=plastic)](https://www.npmjs.com/package/bitly-field-react)
 
 ## Getting started
-## Installation
+### Installation
 `npm install bitly-field-react`
 
 ### Usage
