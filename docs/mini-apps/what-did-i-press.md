@@ -1,5 +1,6 @@
 # What did I press?
 
+![What did I press?](/img/whatdidipress.png)
 ## Technologies
 `#next` `#vercel` `#typescript` `#react` `#hooks`
 
