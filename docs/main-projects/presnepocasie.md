@@ -15,6 +15,8 @@ Web application is an interface for displaying actual weather data in the browse
 ### Mobile application
 Mobile application is created in React-native and it is available in the App Store and Google Play. Application is called *Presné počasie*. For the mobile application is also created a **widget**. Widget is made with `react-native-shared-group-preferences` library.
 
+![Presné počasie](/img/presnepocasiemobile.png)
+
 ## Insights
 
 ## Sources
