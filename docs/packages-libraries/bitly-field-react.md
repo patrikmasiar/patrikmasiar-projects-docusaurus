@@ -1,11 +1,15 @@
 # Bitly field React JS
+[![npm](https://img.shields.io/npm/v/bitly-field-react?style=plastic)](https://www.npmjs.com/package/bitly-field-react)
+[![NPM](https://img.shields.io/npm/dy/bitly-field-react?style=plastic)](https://www.npmjs.com/package/bitly-field-react)
+
+![Bitly field React JS](/img/bitlyfield.png)
 
 ## Technologies
 `#javascript` `#react` `#bitly-api` `#typescript`
 
 ## Overview
-[![npm](https://img.shields.io/npm/v/bitly-field-react?style=plastic)](https://www.npmjs.com/package/bitly-field-react)
-[![NPM](https://img.shields.io/npm/dy/bitly-field-react?style=plastic)](https://www.npmjs.com/package/bitly-field-react)
+Bitly field is a library with customized text field component for React JS, that is using Bitly API so users are able to get response with shorten link directly from this input field.
+The field is configurable, so it can be used for different requirements.
 
 ## Getting started
 ### Installation
