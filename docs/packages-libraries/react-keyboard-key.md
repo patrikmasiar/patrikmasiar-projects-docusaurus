@@ -1,11 +1,13 @@
 # React keyboard key
+[![npm](https://img.shields.io/npm/v/react-keyboard-key?style=plastic)](https://www.npmjs.com/package/react-keyboard-key)
+[![NPM](https://img.shields.io/npm/dy/react-keyboard-key?style=plastic)](https://www.npmjs.com/package/react-keyboard-key)
 
 ## Technologies
 `#typescript` `#hooks` `#react`
 
 ## Overview
-[![npm](https://img.shields.io/npm/v/react-keyboard-key?style=plastic)](https://www.npmjs.com/package/react-keyboard-key)
-[![NPM](https://img.shields.io/npm/dy/react-keyboard-key?style=plastic)](https://www.npmjs.com/package/react-keyboard-key)
+React keyboard key is a simply package for projects using React JS. It is a library based on keydown and keyup events. The package is listening for what key on keyboard was pressed and it returns the whole event data.
+It can be used as a component or a hook as well.
 
 ## Usage
 ### Types
