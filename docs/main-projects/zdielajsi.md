@@ -1,6 +1,8 @@
 # Share It
 > 🇸🇰 Zdieľaj si
 
+![Zdieľaj si](/img/zdielajsi.png)
+
 ## Technologies
 `#react` `#typescript` `#react-native` `#javascript`
 
